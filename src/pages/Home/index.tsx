@@ -8,7 +8,7 @@ import { styles } from './styles';
 import TelaInicial from '../TelaInicial';
 import Noticias from '../Noticias';
 import Chat from '../Chat';
-import Perfil from '../Perfil';
+import Perfil from '../perfil';
 
 export default function Home() {
   const [activeTab, setActiveTab] = useState('home');

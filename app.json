@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "app-toquedecraque",
     "slug": "app-toquedecraque",
+=======
+    "name": "toque-de-craque",
+    "slug": "toque-de-craque",
+>>>>>>> 187e060ff82030ddbc2e35105730dee1dd663f1b
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
